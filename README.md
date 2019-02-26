@@ -2,3 +2,4 @@
 
 * GitHub.com Basics
   * Commit
+  * Branch
