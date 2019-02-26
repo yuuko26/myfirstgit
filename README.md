@@ -4,3 +4,4 @@
   * Commit
   * Branch
   * Pull Request
+  * Exercise
